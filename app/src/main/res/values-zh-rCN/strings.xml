@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">抢红包神器</string>
+    <string name="startservice">启动服务开始抢</string>
+    <string name="closeservice">关闭服务</string>
+    <string name="accessibility_description">启动微信抢红包服务</string>
+</resources>

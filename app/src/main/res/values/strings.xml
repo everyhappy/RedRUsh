@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RedRUsh</string>
+    <string name="startservice">star service</string>
+    <string name="closeservice">close service</string>
+    <string name="accessibility_description">start red service</string>
+</resources>
